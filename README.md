@@ -1,12 +1,30 @@
-# React + Vite
+# 🧑‍💻 Mickey Arnold – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio site built with **React**, **Vite**, and **TailwindCSS** to showcase my software engineering projects, resume, and contact information. Designed to be fast, responsive, and easy to maintain.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive single-page design
+- Projects section with GitHub + live demo links
+- About Me and Contact sections
+- Clean, modern UI using TailwindCSS
+- Deploy-ready (optimized for Vercel, Netlify, etc.)
 
-## Expanding the ESLint configuration
+## 🔧 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React + Vite
+- **Styling**: TailwindCSS
+- **Deployment**: Vercel / Netlify (your choice)
+
+## 📸 Screenshots
+
+> _Add a screenshot or GIF of your site here once deployed._
+
+## 📁 Project Structure
+
+```bash
+src/
+├── App.jsx             # Main app layout
+├── index.css           # TailwindCSS setup
+├── main.jsx            # Entry point
+├── assets/             # (Optional) images and icons
